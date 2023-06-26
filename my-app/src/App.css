@@ -91,3 +91,27 @@ p{
   line-height: 30px;
   font-size: 18px;
 }
+.back{
+  background-image: url("../public/images/back.webp");
+  background-size: cover;
+  background-attachment: fixed;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100%;
+  padding-top: 30%;
+  padding-right: 50px;
+  height: 100vh;
+  color: #fff;
+  text-align: center;
+}
+
+.back h1{
+  font-size: 100px;
+  font-weight: 400;
+}
+
+.marigin{
+  margin-top: 40.3%;
+}
