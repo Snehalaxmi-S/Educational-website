@@ -31,21 +31,21 @@ const Footer = () => {
                 <div className="box link">
                     <h3>Explore</h3>
                     <ul>
+                        <li>Home</li>
                         <li>About Us</li>
-                        <li>About Us</li>
-                        <li>About Us</li>
-                        <li>About Us</li>
-                        <li>About Us</li>
+                        <li>Contact</li>
+                        <li>Pricing</li>
+                        <li>Blog</li>
                     </ul>
                 </div>
                 <div className="box link">
                     <h3>Quick Links</h3>
                     <ul>
+                        <li>Home</li>
                         <li>About Us</li>
-                        <li>About Us</li>
-                        <li>About Us</li>
-                        <li>About Us</li>
-                        <li>About Us</li>
+                        <li>Contact</li>
+                        <li>Pricing</li>
+                        <li>Blog</li>
                     </ul>
                 </div>
                 <div className="box">
@@ -84,11 +84,15 @@ const Footer = () => {
                         </li>
                         <li>
                             <i className="fa fa-paper-plane"></i>
+                            example@gmail.com
                         </li>
                     </ul>
                 </div>
             </div>
         </footer>
+        <div className="legal">
+            <p>Copyright @2023 All rights reserved</p>
+        </div>
     </>
   )
 }
