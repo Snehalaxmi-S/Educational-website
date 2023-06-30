@@ -3,19 +3,19 @@ export const homeAbout = [
       id: 1,
       cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
       title: "Online Courses",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam.",
     },
     {
       id: 1,
       cover: "https://img.icons8.com/ios/80/000000/diploma.png",
       title: "Earn A Certificates",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam.",
     },
     {
       id: 1,
       cover: "https://img.icons8.com/ios/80/000000/athlete.png",
       title: "Learn with Expert",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam.",
     },
   ]
   export const awrapper = [
@@ -288,49 +288,49 @@ export const homeAbout = [
   export const price = [
     {
       name: "BASIC PLAN",
-      price: "49K",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      price: "1000",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam",
     },
     {
       name: "BEGINNER PLAN",
-      price: "79K",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      price: "2000",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam",
     },
     {
       name: "PREMIUM PLAN",
-      price: "109k",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      price: "3000",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam",
     },
     {
       name: "ULTIMATE PLAN",
-      price: "149K",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      price: "6000",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam",
     },
   ]
   export const faq = [
     {
-      title: "How to Enroll This Online Courses?",
-      desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "Can I access the courses offline?",
+      desc: "Yes, the app provides an offline mode for selected courses, allowing you to download the course content and access it without an internet connection for a seamless learning experience.",
     },
     {
-      title: "Where It is hidden by default, until the collapse?",
-      desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "Can I interact with the instructors or ask questions during the course?",
+      desc: " Yes, you can interact with the instructors through discussion forums or live Q&A sessions, facilitating direct communication for clarifying doubts and enhancing your understanding.",
     },
     {
-      title: "How It is hidden by default, until the collapse?",
-      desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: " Is there any certification upon course completion?",
+      desc: "Yes, upon successful completion of a course, you will receive a verifiable certificate to showcase your newly acquired skills and knowledge to employers or colleagues.",
     },
     {
-      title: "How to Enroll This Online Courses?",
-      desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "How much does the app cost?",
+      desc: "The app offers a variety of pricing plans, including free courses and premium subscriptions with additional features. You can choose the plan that suits your requirements and budget.",
     },
     {
-      title: "Where It is hidden by default, until the collapse?",
-      desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "Can I access the app on multiple devices?",
+      desc: "Yes, you can access the app on multiple devices such as smartphones, tablets, and computers, ensuring you can learn on-the-go or from the comfort of your home.",
     },
     {
-      title: "How It is hidden by default, until the collapse?",
-      desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "Are the course materials regularly updated?",
+      desc: "Yes, the course materials are periodically updated to ensure that you receive the latest information and industry trends, keeping the content relevant and up-to-date.",
     },
   ]
   export const blog = [
@@ -340,7 +340,7 @@ export const homeAbout = [
       date: "JAN. 18, 2021",
       com: "3 COMMENTS ",
       title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam.",
       cover: "../images/blog/b1.webp",
     },
     {
@@ -349,7 +349,7 @@ export const homeAbout = [
       date: "API. 25, 2022",
       com: "5 COMMENTS ",
       title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam.",
       cover: "../images/blog/b2.webp",
     },
     {
@@ -358,7 +358,7 @@ export const homeAbout = [
       date: "MAY. 15, 2022",
       com: "10 COMMENTS ",
       title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam.",
       cover: "../images/blog/b3.webp",
     },
     {
@@ -367,7 +367,7 @@ export const homeAbout = [
       date: "JAN. 02, 2022",
       com: "3 COMMENTS ",
       title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam.",
       cover: "../images/blog/b4.webp",
     },
     {
@@ -376,7 +376,7 @@ export const homeAbout = [
       date: "DEC. 14, 2022",
       com: "3 COMMENTS ",
       title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam.",
       cover: "../images/blog/b5.webp",
     },
     {
@@ -385,7 +385,7 @@ export const homeAbout = [
       date: "JAN. 18, 2021",
       com: "12 COMMENTS ",
       title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam.",
       cover: "../images/blog/b6.webp",
     },
   ]
@@ -394,21 +394,21 @@ export const homeAbout = [
       id: 1,
       name: "ROGER SCOTT",
       post: "MARKETING MANAGER",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam.",
       cover: "./images/testo/t1.webp",
     },
     {
       id: 2,
       name: "ROGER SCOTT",
       post: "MARKETING MANAGER",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam.",
       cover: "./images/testo/t2.webp",
     },
     {
       id: 3,
       name: "ROGER SCOTT",
       post: "MARKETING MANAGER",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore error ipsam quae aliquam, expedita quisquam.",
       cover: "./images/testo/t3.webp",
     },
   ]

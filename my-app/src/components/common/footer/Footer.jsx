@@ -41,11 +41,11 @@ const Footer = () => {
                 <div className="box link">
                     <h3>Quick Links</h3>
                     <ul>
-                        <li>Home</li>
-                        <li>About Us</li>
-                        <li>Contact</li>
-                        <li>Pricing</li>
-                        <li>Blog</li>
+                        <li>Course</li>
+                        <li>Testimonial</li>
+                        <li>FAQs</li>
+                        <li>Privacy Policy</li>
+                        <li>Services</li>
                     </ul>
                 </div>
                 <div className="box">
